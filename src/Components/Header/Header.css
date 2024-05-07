@@ -154,6 +154,15 @@
 .sellMenu .sellMenuContent span {
   margin-left: 5px;
 }
+.sellText {
+  color: black;
+  text-decoration: none; 
+}
+
+.sellText a {
+  color: black;
+}
+
 
 @media only screen and (max-width: 700px) {
   .placeSearch,
